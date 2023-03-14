@@ -2,9 +2,9 @@
   "version": "0.2.0",
   "configurations": [
     {
-      "command": "./node_modules/.bin/astro start",
+      "command": "./node_modules/.bin/astro dev",
       "name": "Development server",
-      "request": "start",
+      "request": "lanch",
       "type": "node-terminal"
     }
   ]
