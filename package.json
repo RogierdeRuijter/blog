@@ -15,5 +15,8 @@
     "@astrojs/rss": "^2.1.1",
     "@astrojs/sitemap": "^1.1.0",
     "astro": "^2.0.18"
+  },
+  "stackblitz": {
+    "startCommand": "npm start"
   }
 }
