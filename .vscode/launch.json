@@ -4,7 +4,7 @@
     {
       "command": "./node_modules/.bin/astro start",
       "name": "Development server",
-      "request": "launch",
+      "request": "start",
       "type": "node-terminal"
     }
   ]
